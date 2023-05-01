@@ -66,8 +66,8 @@ public:
 		cpu_min = cpu_menu / 2;
 		cpu_step = 6;
 
-		w = 320;
-		h = 240;
+		w = 480;
+		h = 272;
 		bpp = 16;
 
 		system("[ -d /home/retrofw ] && mount -o remount,async /home/retrofw");
